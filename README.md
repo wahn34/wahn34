@@ -1,16 +1,25 @@
-### Hi there 👋
+# About Me
+- 스마트 폰의 등장에 많은 호기심을 가지고 개발을 시작하게 되었습니다.
+- 새로운 것의 탄생, 이로 인해 변화하는 삶에 관심이 많습니다.
 
-<!--
-**wahn34/wahn34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact
+- [Email] - fbdhks34@gmail.com
+- [Github] - github.com/wahn34
+- [Blog] - https://it-study-room.tistory.com/
 
-Here are some ideas to get you started:
+## Skills
+Backend
+- Java
+- 전자정부프레임워크
+- Spring Boot, Spring MVC, Spring Batch, Spring JPA
+- Git, SVN
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+DevOps
+- AWS EC2, S3, RDS, CloudFront
+- Oracle, MySQL, MariaDB
+- WildFly, Tomcat, JEUS
+- Apache, WEBTOB
+
+Frontend
+- HTML5, XHTML, CSS, JavaScript
+
