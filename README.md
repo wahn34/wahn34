@@ -11,7 +11,7 @@
 Backend
 - Java
 - 전자정부프레임워크
-- Spring Boot, Spring MVC, Spring Batch, Spring JPA
+- Spring Boot, Spring MVC, Spring Batch, Spring Data JPA
 - Git, SVN
 
 DevOps
