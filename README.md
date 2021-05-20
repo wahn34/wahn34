@@ -5,7 +5,7 @@
 ## Contact
 - [Email] - fbdhks34@gmail.com
 - [Github] - github.com/wahn34
-- [Blog] - https://wahn34.github.io/  https://it-study-room.tistory.com/
+- [Blog] - https://wahn34.github.io/ 
 
 ## Skills
 Backend
