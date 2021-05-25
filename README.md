@@ -8,6 +8,9 @@
 - [Blog] - https://wahn34.github.io/ 
 
 ## Skills
+Frontend
+- HTML5, XHTML, CSS, JavaScript
+
 Backend
 - Java
 - 전자정부프레임워크
@@ -20,6 +23,5 @@ DevOps
 - WildFly, Tomcat, JEUS
 - Apache, WEBTOB
 
-Frontend
-- HTML5, XHTML, CSS, JavaScript
+
 
